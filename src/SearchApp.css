@@ -1,0 +1,27 @@
+body {
+  background-color: #102c44;
+  color: white
+}
+
+.container {
+  width: 1100px;
+  margin: 40vh auto;
+  text-align: center;
+}
+
+.container-result {
+  width: 1100px;
+  margin: 2rem auto;
+}
+
+.header {
+  text-align: center;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+.randomSearch {
+  cursor: pointer;
+}
